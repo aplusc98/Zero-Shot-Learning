@@ -1,5 +1,5 @@
 # Zero-Shot-Learning
-A pyhton ZSL system which makes it easy to run Zero-Shot Learning on new datasets, by giving it features and attributes. Based on “An embarrassingly simple approach to zero-shot learning”, presented at ICML 2015. 
+A python ZSL system which makes it easy to run Zero-Shot Learning on new datasets, by giving it features and attributes. Based on “An embarrassingly simple approach to zero-shot learning”, presented at ICML 2015. 
 
 ## Dependencies
 The dependencies can be found in the requirements.txt file. These can be installed by doing `pip install -r path/to/requirements.txt`.
